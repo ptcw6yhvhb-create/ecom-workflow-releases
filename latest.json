@@ -1,0 +1,11 @@
+{
+  "version": "1.76.5",
+  "notes": "OTA 热更新源打通（已剥离密钥）",
+  "files": [
+    {
+      "path": "index.html",
+      "url": "https://cdn.jsdelivr.net/gh/ptcw6yhvhb-create/ecom-workflow-releases@main/1.76.5/index.html",
+      "sha256": "f859528df6a9a3a1d62588af4bb4327ecaa3894e445ff4ec1e13b05d7995c195"
+    }
+  ]
+}
