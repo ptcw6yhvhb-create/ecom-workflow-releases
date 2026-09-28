@@ -1,11 +1,11 @@
 {
-  "version": "1.76.5",
-  "notes": "OTA 热更新源打通（已剥离密钥）",
+  "version": "1.78.1",
+  "notes": "页头两处视觉修正：①时钟时间数字基线补偿 +0.5px（等宽字体 ascent 比例低于系统 UI 字体，与左侧日期错位 0.5px，视觉上「有点歪」）；②「配置接口」按钮加宽到 220px（≈2 倍）且内容居中，页头左侧不再单薄，窄屏（≤620px）回退自适应。",
   "files": [
     {
       "path": "index.html",
-      "url": "https://cdn.jsdelivr.net/gh/ptcw6yhvhb-create/ecom-workflow-releases@main/1.76.5/index.html",
-      "sha256": "f859528df6a9a3a1d62588af4bb4327ecaa3894e445ff4ec1e13b05d7995c195"
+      "url": "https://cdn.jsdelivr.net/gh/ptcw6yhvhb-create/ecom-workflow-releases@main/1.78.1/index.html",
+      "sha256": "37ad0d4aee725b023ddfe1a2655b8bf2afb73a2d8becfa05570c599eebfd5223"
     }
   ]
 }
